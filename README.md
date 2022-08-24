@@ -15,4 +15,4 @@ I came up when in a time when Javascript hosted on a mega-corp's platform couldn
 2. It's what I know and I have yet to find an employer that wants to go serverless.
 
 ### Why would someone build their resume using HTML and CSS?  
-Becuase I'm pretty good at web standards, I'm terrible at MS Word, and LaTex I don't have time to learn LaTeX.
+Becuase I'm pretty good at web standards, I'm terrible at MS Word, and I don't have time to learn LaTeX.
