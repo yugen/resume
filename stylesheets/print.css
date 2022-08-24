@@ -1,0 +1,48 @@
+@page {
+    size:  auto;
+    /* margin: 0mm; */
+}
+
+body
+{
+    /* border: solid 1px blue ; */
+    /* margin: .25in; */
+    background-color: #fff;
+}
+
+.print-url{
+    font-size: 12px;
+    display:block;
+    margin-top: .25em;
+}
+
+#work .print-url{
+    margin: 0 auto .25em 0;
+}
+
+.print-url:before{
+    content: '[';
+}
+
+.print-url:after{
+    content: ']';
+}
+
+.print .item {
+    page-break-inside: avoid;
+}
+
+#experience dd ul li{
+    background: transparent;
+    padding: 0 0 .75em 20;
+    list-style: disc;
+    list-style-position: inside;
+}
+
+.typekit-badge{
+    display: none !important;
+}
+
+#utility-nav{
+    display: none;
+}
