@@ -181,6 +181,10 @@ dd{
 }
 
 
+#experience dd p{
+    margin-bottom: .25rem;
+}
+
 #experience dd ul{
     padding-left: 1em;
     list-style: none;
