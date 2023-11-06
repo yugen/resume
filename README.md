@@ -1,6 +1,6 @@
 # Resume for Jack W Ward III, Full Stack Developer
 
-Hi, I'm Jack, but please call me TJ.  I've been banging away, making custom web-based applications for about 20 years, now.  This repo is my resume.  It's literally just some HTML and JavaScript, but it looks pretty good and I can always print-to-pdf.
+Hi, I'm Jack, but please call me TJ.  I've been banging away, making custom web-based applications for about 20 years, now.  This repo is my [resume](https://yugen.github.io).  It's literally just some HTML and JavaScript, but it looks pretty good and I can always print-to-pdf.
 
 I'm a senior software engineer who believes in understanding the problem, writing clean code, automated testing, and getting things done.  I'm currently available for contract, part-time, or compelling full-time work.  I live in Raleigh-Durham, NC and believe programmers should be able to work from wherever and (pretty much) whenever they choose.  Successful recruiters will have positions with organizations that do something worthwhile for the world, has interesting problems to solve, and values people who work hard.
 
