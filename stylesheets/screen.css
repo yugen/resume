@@ -194,7 +194,7 @@ dd{
 #experience dd ul li {
     line-height: 1.75;
     list-style-type: disc;
-    margin-left: .75rem;
+    margin-left: 1rem;
     /* background: transparent url(../images/bullet.png) 0 1px no-repeat; */
 }
 
